@@ -1,2 +1,1 @@
---platform=linux/arm64 nginx
---platform=linux/arm64 klausmeyer/docker-registry-browser
+--platform=linux/arm64 registry
