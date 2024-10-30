@@ -1,1 +1,1 @@
---platform=linux/arm64 registry
+--platform=linux/arm64 dlgmltjr0925/docker-registry-web
