@@ -6,4 +6,5 @@
 # --platform=linux/arm64 nacos/nacos-server:v2.0.4-slim
 # wurstmeister/kafka
 # zookeeper:3.6.2
-digitalwonderland/zookeeper
+# digitalwonderland/zookeeper
+sheepkiller/kafka-manager:latest
