@@ -4,5 +4,8 @@
 #  --platform=linux/arm64 node:latest
 # nacos/nacos-server:2.0.4-slim
 # --platform=linux/arm64 nacos/nacos-server:v2.0.4-slim
-wurstmeister/kafka
-zookeeper:3.6.2
+# wurstmeister/kafka
+# zookeeper:3.6.2
+apecloud/kafka:3.33.2-debian-11-r54
+apecloud/jmx-exporter:0.18.0-debian-11-r20
+
