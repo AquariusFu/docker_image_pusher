@@ -7,4 +7,5 @@
 # wurstmeister/kafka
 # zookeeper:3.6.2
 # digitalwonderland/zookeeper
-sheepkiller/kafka-manager:latest
+#sheepkiller/kafka-manager:latest
+bitnami/zookeeper:3.4.14-debian-9-r25
