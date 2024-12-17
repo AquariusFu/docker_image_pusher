@@ -8,4 +8,6 @@
 # zookeeper:3.6.2
 # digitalwonderland/zookeeper
 #sheepkiller/kafka-manager:latest
-bitnami/zookeeper:3.4.14-debian-9-r25
+# bitnami/zookeeper:3.4.14-debian-9-r25
+openjdk:8
+openjdk:8u312-jdk
