@@ -17,4 +17,4 @@
 # nginx:1.24.0
 # openjdk:8
 # mysql/mysql-server:8.0
-seudev/jaspersoft-studio
+seudev/jaspersoft-studio:5.5.1
