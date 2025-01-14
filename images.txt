@@ -43,4 +43,8 @@
 # postgres:15-alpine
 # langgenius/dify-web:0.14.2
 # langgenius/dify-api:0.14.2
-seudev/jaspersoft-studio:6.16.0
+# seudev/jaspersoft-studio:6.16.0
+node:14.10.1-slim
+node:18.12.1-slim
+node:20.17.0-slim
+node:22.13.0-slim
