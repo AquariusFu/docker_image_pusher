@@ -41,10 +41,11 @@
 # langgenius/dify-sandbox:0.2.10
 # redis:6-alpine
 # postgres:15-alpine
-langgenius/dify-web:0.15.2
-langgenius/dify-api:0.15.2
+# langgenius/dify-web:0.15.2
+# langgenius/dify-api:0.15.2
 # seudev/jaspersoft-studio:6.16.0
 # --platform=linux/arm64 node:14.10.1-slim
 # --platform=linux/arm64 node:18.12.1-slim
 # --platform=linux/arm64 node:20.17.0-slim
 # --platform=linux/arm64 node:22.13.0-slim
+searxng/searxng:latest
