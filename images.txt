@@ -48,4 +48,5 @@
 # --platform=linux/arm64 node:18.12.1-slim
 # --platform=linux/arm64 node:20.17.0-slim
 # --platform=linux/arm64 node:22.13.0-slim
-searxng/searxng:latest
+# searxng/searxng:latest
+node
