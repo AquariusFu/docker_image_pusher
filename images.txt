@@ -55,4 +55,4 @@
 # neuvector/enforcer:5.4.0
 # neuvector/scanner:latest
 # neuvector/updater:latest
-nacos/nacos-server:v2.3.2-slim
+--platform=linux/arm64 nacos/nacos-server:v2.3.2-slim
