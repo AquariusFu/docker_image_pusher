@@ -50,8 +50,9 @@
 # --platform=linux/arm64 node:22.13.0-slim
 # searxng/searxng:latest
 # node
-neuvector/manager:5.4.0
-neuvector/controller:5.4.0
-neuvector/enforcer:5.4.0
-neuvector/scanner:latest
-neuvector/updater:latest
+# neuvector/manager:5.4.0
+# neuvector/controller:5.4.0
+# neuvector/enforcer:5.4.0
+# neuvector/scanner:latest
+# neuvector/updater:latest
+nacos/nacos-server:v2.3.2-slim
