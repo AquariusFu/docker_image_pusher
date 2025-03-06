@@ -1,59 +1,28 @@
-#  --platform=linux/arm64 dlgmltjr0925/docker-registry-web:arm64v8-1.0.0
-# --platform=linux/arm64 openeuler/openeuler:22.03-lts-sp4
-# --platform=linux/arm64 multiarch/qemu-user-static
-#  --platform=linux/arm64 node:latest
-# nacos/nacos-server:2.0.4-slim
-# --platform=linux/arm64 nacos/nacos-server:v2.0.4-slim
-# wurstmeister/kafka
-# zookeeper:3.6.2
-# digitalwonderland/zookeeper
-#sheepkiller/kafka-manager:latest
-# bitnami/zookeeper:3.4.14-debian-9-r25
-# openjdk:8
-# openjdk:8u312-jdk
-# mysql:8.0.40
-# redis:6
-# nacos/nacos-server:v2.4.3-slim
-# nginx:1.24.0
-# openjdk:8
-# mysql/mysql-server:8.0
-# seudev/jaspersoft-studio:5.5.1
-# downloads.unstructured.io/unstructured-io/unstructured-api:latest
-# docker.elastic.co/kibana/kibana:8.14.3
-# docker.elastic.co/elasticsearch/elasticsearch:8.14.3
-# myscale/myscaledb:1.6.4
-# opensearchproject/opensearch-dashboards:latest
-# opensearchproject/opensearch:latest
-# milvusdb/milvus:v2.3.1
-# minio/minio:RELEASE.2023-03-20T20-16-18Z
-# quay.io/coreos/etcd:v3.5.5
-# container-registry.oracle.com/database/free:latest
-# quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
-# ghcr.io/chroma-core/chroma:0.5.20
-# tensorchord/pgvecto-rs:pg16-v0.3.0
-# pgvector/pgvector:pg16
-# langgenius/qdrant:v1.7.3
-# semitechnologies/weaviate:1.19.0
-# pingcap/tidb:v8.4.0
-# nginx:latest
-# certbot/certbot
-# ubuntu/squid:latest
-# langgenius/dify-sandbox:0.2.10
-# redis:6-alpine
-# postgres:15-alpine
-# langgenius/dify-web:0.15.2
-# langgenius/dify-api:0.15.2
-# seudev/jaspersoft-studio:6.16.0
-# --platform=linux/arm64 node:14.10.1-slim
-# --platform=linux/arm64 node:18.12.1-slim
-# --platform=linux/arm64 node:20.17.0-slim
-# --platform=linux/arm64 node:22.13.0-slim
-# searxng/searxng:latest
-# node
-# neuvector/manager:5.4.0
-# neuvector/controller:5.4.0
-# neuvector/enforcer:5.4.0
-# neuvector/scanner:latest
-# neuvector/updater:latest
 # --platform=linux/arm64 nacos/nacos-server:v2.3.2-slim
---platform=linux/arm64  redislabs/redisinsight:2.66
+# --platform=linux/arm64  redislabs/redisinsight:2.66
+--platform=linux/arm64  langgenius/dify-api:1.0.0
+--platform=linux/arm64  langgenius/dify-web:1.0.0
+--platform=linux/arm64  postgres:15-alpine
+--platform=linux/arm64  redis:6-alpine
+--platform=linux/arm64  langgenius/dify-sandbox:0.2.10
+--platform=linux/arm64  langgenius/dify-plugin-daemon:0.0.3-local
+--platform=linux/arm64  semitechnologies/weaviate:1.19.0
+--platform=linux/arm64  pgvector/pgvector:pg16
+--platform=linux/arm64  tensorchord/pgvecto-rs:pg16-v0.3.0
+--platform=linux/arm64  ghcr.io/chroma-core/chroma:0.5.20
+--platform=linux/arm64  container-registry.oracle.com/database/free:latest
+--platform=linux/arm64  minio/minio:RELEASE.2023-03-20T20-16-18Z
+--platform=linux/arm64  milvusdb/milvus:v2.5.0-beta
+--platform=linux/arm64  opensearchproject/opensearch:latest
+--platform=linux/arm64  myscale/myscaledb:1.6.4
+--platform=linux/arm64  docker.elastic.co/kibana/kibana:8.14.3
+--platform=linux/arm64  downloads.unstructured.io/unstructured-io/unstructured-api:latest
+--platform=linux/arm64  ubuntu/squid:latest
+--platform=linux/arm64  certbot/certbot
+--platform=linux/arm64  nginx:latest
+--platform=linux/arm64  langgenius/qdrant:v1.7.3
+--platform=linux/arm64  quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
+--platform=linux/arm64  quay.io/coreos/etcd:v3.5.5
+--platform=linux/arm64  opensearchproject/opensearch-dashboards:latest
+--platform=linux/arm64  docker.elastic.co/elasticsearch/elasticsearch:8.14.3
+--platform=linux/arm64  downloads.unstructured.io/unstructured-io/unstructured-api:latest
