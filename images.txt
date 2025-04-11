@@ -1,4 +1,5 @@
 # --platform=linux/arm64 langgenius/dify-api:1.0.1
 # mysql:8.0.41
 # redis:8.0-rc1
-busybox:latest
+# busybox:latest
+flowable/flowable-ui:latest
