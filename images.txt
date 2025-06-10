@@ -2,6 +2,8 @@
 # mysql:8.0.41
 # redis:8.0-rc1
 # busybox:latest
-flowable/flowable-ui:latest
+# flowable/flowable-ui:latest
 
---platform=linux/arm64 openeuler/bisheng-jdk:1.8.0-oe2203lts
+# --platform=linux/arm64 openeuler/bisheng-jdk:1.8.0-oe2203lts
+
+ --platform=linux/arm64  mysql:8.0.42
