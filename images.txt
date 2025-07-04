@@ -6,4 +6,6 @@
 
 # --platform=linux/arm64 openeuler/bisheng-jdk:1.8.0-oe2203lts
 
- --platform=linux/arm64  mysql:8.0.42
+ # --platform=linux/arm64  mysql:8.0.42
+
+--platform=linux/arm64 mongodb/mongodb-community-server:7.0.17-ubuntu2204
