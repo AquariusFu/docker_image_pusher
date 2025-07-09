@@ -8,4 +8,6 @@
 
  # --platform=linux/arm64  mysql:8.0.42
 
---platform=linux/arm64 mongodb/mongodb-community-server:7.0.17-ubuntu2204
+# --platform=linux/arm64 mongodb/mongodb-community-server:7.0.17-ubuntu2204
+
+--platform=linux/arm64 redis:6.2.19
