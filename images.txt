@@ -10,4 +10,6 @@
 
 # --platform=linux/arm64 mongodb/mongodb-community-server:7.0.17-ubuntu2204
 
---platform=linux/arm64 redis:6.2.19
+# --platform=linux/arm64 redis:6.2.19
+
+--platform=linux/arm64  openeuler/bisheng-jdk:1.8.0-oe2203lts
