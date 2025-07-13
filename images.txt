@@ -12,4 +12,6 @@
 
 # --platform=linux/arm64 redis:6.2.19
 
---platform=linux/arm64  openeuler/bisheng-jdk:1.8.0-oe2203lts
+# --platform=linux/arm64  openeuler/bisheng-jdk:1.8.0-oe2203lts
+
+sonatype/nexus:latest
