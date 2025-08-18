@@ -19,4 +19,7 @@
 # --platform=linux/arm64 rancher/coreos-etcd:v3.4.15-arm64
 # --platform=linux/arm64 nginx:1.19.10-alpine
 # --platform=linux/arm64 apache/apisix:3.13.0-debian
---platform=linux/arm64  openeuler/etcd:3.6.0-oe2403sp1
+# --platform=linux/arm64  openeuler/etcd:3.6.0-oe2403sp1
+
+--platform=linux/arm64  apache/apisix-dashboard:latest
+
