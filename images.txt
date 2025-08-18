@@ -14,4 +14,8 @@
 
 # --platform=linux/arm64  openeuler/bisheng-jdk:1.8.0-oe2203lts
 
-sonatype/nexus:latest
+# sonatype/nexus:latest
+
+--platform=linux/arm64 rancher/coreos-etcd:v3.4.15-arm64
+--platform=linux/arm64 nginx:1.19.10-alpine
+--platform=linux/arm64 apache/apisix:3.13.0-debian
