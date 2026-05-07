@@ -28,4 +28,5 @@
 
 # --platform=linux/arm64  busybox:1.35.0
 # -- docker.elastic.co/elasticsearch/elasticsearch:8.15.3
-postgres:15
+# -- postgres:15
+ubuntu：22.04
