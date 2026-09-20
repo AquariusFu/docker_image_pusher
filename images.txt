@@ -4,4 +4,5 @@
 # --platform=linux/arm64 apache/skywalking-oap-server:9.7.0
 # --platform=linux/arm64 apache/skywalking-ui:9.7.0
 # --platform=linux/arm64  docker.elastic.co/elasticsearch/elasticsearch:8.11.1
---platform=linux/arm64   cloudcanal-registry.cn-shanghai.cr.aliyuncs.com/clougence/cgdm-alone:4.2.0
+# --platform=linux/arm64   cloudcanal-registry.cn-shanghai.cr.aliyuncs.com/clougence/cgdm-alone:4.2.0
+--platform=linux/arm64    mysql:8.0.33
